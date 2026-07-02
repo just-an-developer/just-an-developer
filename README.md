@@ -7,7 +7,7 @@ Atualmente cursando 2° semestre de Ciência da Computação e busco me especial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idan-kallel-5455a33b7/) 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=just-an-developer&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=just-an-developer&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=just-an-developer&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=just-an-developer&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura_dark)  <img src = "cobra-leao.png" width = "200px" height = "200px" align = "right">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=just-an-developer&layout=compact&hide_progress=true&langs_count=4&theme=aura_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=just-an-developer&layout=compact&hide_progress=true&langs_count=4&theme=aura_dark)
 
