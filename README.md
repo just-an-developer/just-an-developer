@@ -1,4 +1,4 @@
-<img src = "github-header-banner.png">
+<img src = "idan-kallel-banner-animation.gif">
 
 # Seja bem-vindo(a) ao meu GitHub! 😴👒                
 Coding away here... watch out for the <> along the way.
