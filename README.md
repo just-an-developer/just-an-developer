@@ -1,6 +1,6 @@
 <img src = "idan-kallel-banner-animation.gif">
 
-# Seja bem-vindo(a) ao meu GitHub! 😴👒                
+# Welcome! 😴👒                
 Coding away here... watch out for the <> along the way.
 
 Atualmente cursando 2° semestre de Ciência da Computação e busco me especializar em front-end. Ligeiramente obcecado em One Piece.
